@@ -1,0 +1,2 @@
+Suma kolumny 3: 65
+Średnia kolumny 3: 5.909090909090909
