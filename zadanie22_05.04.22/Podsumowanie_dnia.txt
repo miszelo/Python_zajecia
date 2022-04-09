@@ -1,0 +1,20 @@
+===============================================================
+					Podsumowanie  dnia
+===============================================================
+Dziś sprzedano towar o łącznej wartości:
+1498.74$
+===============================================================
+- Ubrań o kolorze white sprzedano: 28
+- Ubrań o kolorze blue sprzedano: 22
+- Ubrań o kolorze yellow sprzedano: 34
+- Ubrań o kolorze purple sprzedano: 17
+- Ubrań o kolorze red sprzedano: 24
+- Ubrań o kolorze green sprzedano: 30
+- Ubrań o kolorze black sprzedano: 26
+===============================================================
+Najlepiej sprzedały się ubrania w kolorze:
+yellow
+===============================================================
+
+Raport sporządzono 04/06/2022, 21:37:00
+Przygotował MK
