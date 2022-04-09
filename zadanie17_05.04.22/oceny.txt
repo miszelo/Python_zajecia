@@ -1,0 +1,9 @@
+Imię                       Oceny        
+Paweł                        1          
+Ola                          2          
+Maciej                      4,2         
+Michal                      1,6         
+Tomek                        4          
+
+Ostatnia modyfikacja pliku: 04/09/2022, 15:10:35
+Skrypt utworzony przez MK
